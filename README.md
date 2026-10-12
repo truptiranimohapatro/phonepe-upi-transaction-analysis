@@ -29,9 +29,5 @@ The raw dataset is available on Google Drive.
 ## Key Insights
 Add the actual findings from your dashboard here, such as transaction trends, top-performing categories, and changes over time.
 
-Conclusion
-
-This project demonstrates my skills in Excel-based data analysis, data visualization, and dashboard development.
-
 ## Author
 Trupti Rani Mohapatro
