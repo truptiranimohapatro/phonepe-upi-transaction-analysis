@@ -36,17 +36,8 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 | ✅ Success Rate | 91.00% |
 | ⚠️ Suspected Fraud | 17,089 |
 
-<p align="center">
-  <img src="KPI%20Images/kpi-1.png" width="45%">
-  <img src="KPI%20Images/kpi-2.png" width="45%">
-</p>
-<p align="center">
-  <img src="KPI%20Images/kpi-3.png" width="45%">
-  <img src="KPI%20Images/kpi-4.png" width="45%">
-</p>
-<p align="center">
-  <img src="KPI%20Images/kpi-5.png" width="45%">
-</p>
+![KPI 1](images/kpi_1.png)
+![KPI 2](images/kpi_2.png)
 
 ---
 
