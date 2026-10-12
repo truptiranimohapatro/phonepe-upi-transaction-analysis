@@ -26,7 +26,7 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 ## 🖼️ Full Dashboard
 
 <p align="center">
-Phonepe%20Dashboard.jpg
+  <img src="Phonepe%20Dashboard%20Thumbnail%20Image.png" alt="PhonePe UPI Transaction Dashboard" width="100%">
 </p>
 
 ---
