@@ -52,6 +52,15 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 ---
 
+## 🧹 Data Cleaning
+
+- Removed **duplicate records** from the raw transaction data
+- Handled **missing values** in transaction count and amount columns
+- Standardized **State** names (fixed spacing and inconsistent capitalization using `TRIM` and `PROPER`)
+- Standardized **Transaction Type** labels for consistency
+- Verified data types for **year, quarter, count, and amount** columns
+- Checked for **zero or unusual values** in transaction amount
+  
 ## 🔍 Key Insights
 
 **Overall**
