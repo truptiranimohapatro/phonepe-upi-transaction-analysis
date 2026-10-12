@@ -1,5 +1,4 @@
-<p align="center">
- <h1 align="center">📊 PhonePe UPI Transaction Analysis Dashboard</h1>
+<h1 align="center">📊 PhonePe UPI Transaction Analysis Dashboard</h1>
 
 <p align="center">
   An interactive Microsoft Excel dashboard that explores UPI transaction trends and key performance indicators.
@@ -11,22 +10,18 @@
   <img src="https://img.shields.io/badge/Type-Data%20Visualization-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="Phonepe%20Dashboard%20Thumbnail%20Image.png" alt="PhonePe UPI Transaction Dashboard" width="100%">
-</p>
-
 ---
 
 ## 🎯 Project Overview
 
-This project analyzes PhonePe UPI transaction data in a single, filter-driven Excel dashboard. Users can slice the data by transaction status, payment mode, transaction type, and merchant.
+This project analyzes PhonePe UPI transaction data in a single, filter-driven Excel dashboard. Users can slice the data by city, gender, merchant, and merchant category to explore transaction behavior.
 
 ---
 
-## 🖼️ Full Dashboard
+## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Phonepe%20Dashboard%20Thumbnail%20Image.png" alt="PhonePe UPI Transaction Dashboard" width="100%">
+  <img src="Phonepe%20Dashboard.jpg" alt="PhonePe UPI Transaction Dashboard" width="100%">
 </p>
 
 ---
@@ -57,14 +52,15 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 ## 📈 Dashboard Features
 
-- 🎛️ **Interactive filters:** Transaction Status, Payment Mode, Transaction Type, Merchant Name
+- 🎛️ **Interactive filter panel:** City, Gender, Merchant Name, Merchant Category
 - 📅 **Daily trend:** Transaction amount over time
 - 📱 **UPI app share:** Transactions by UPI app
 - 🔄 **Status breakdown:** Success, Failed, Pending, Refunded
 - 🗺️ **State-wise view:** Transaction amount by state
 - 🏦 **Bank-wise view:** Transaction amount by bank name
-- 💳 **Transaction types:** P2M, P2P, Bill Payment, Recharge and more
+- 💳 **Transaction types:** P2M, P2P, Bill Payment, Online Shopping, Recharge and more
 - ⏰ **Hourly view:** Transaction amount by hour
+- 🔥 **Heatmap:** Transaction amount by hour and day of the week
 
 ---
 
@@ -90,6 +86,7 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 - Activity is **near zero between 1 AM and 5 AM**, and rises steadily from 7 AM.
 - The hour-by-day heatmap shows the evening hours (about 5 PM to 9 PM) are the busiest on every day of the week.
 - Daily amount stays in a narrow band of **~₹1.32 Cr to ~₹1.52 Cr**, with a high on the 5th of the month.
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -112,6 +109,6 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 **Trupti Rani Mohapatro**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true) | 💻 [GitHub](https://github.com/truptiranimohapatro)
+🔗 [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/) | 💻 [GitHub](https://github.com/truptiranimohapatro)
 
 ⭐ If you found this project useful, consider giving it a star!
