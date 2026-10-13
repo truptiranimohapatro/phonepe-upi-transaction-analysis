@@ -26,18 +26,6 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 ---
 
-## 📌 Key Performance Indicators
-
-| KPI | Value |
-|---|---|
-| 🔢 Total Transactions | 502,887 |
-| 💰 Total Amount (INR) | ₹44.25 Cr |
-| 🎁 Total Cashback (INR) | ₹34.63 L |
-| ✅ Success Rate | 91.00% |
-| ⚠️ Suspected Fraud | 17,089 |
-
----
-
 ## 📈 Dashboard Features
 
 - 🎛️ **Interactive filter panel:** City, Gender, Merchant Name, Merchant Category
@@ -52,6 +40,16 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 ---
 
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Data cleaning and dashboard building |
+| PivotTables & PivotCharts | Summarizing and visualizing data |
+| Slicers | Interactive filtering |
+
+---
+
 ## 🧹 Data Cleaning
 
 - Removed **duplicate records** from the raw transaction data
@@ -60,7 +58,21 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 - Standardized **Transaction Type** labels for consistency
 - Verified data types for **year, quarter, count, and amount** columns
 - Checked for **zero or unusual values** in transaction amount
-  
+
+ ---
+ 
+ ## 📌 Key Performance Indicators
+
+| KPI | Value |
+|---|---|
+| 🔢 Total Transactions | 502,887 |
+| 💰 Total Amount (INR) | ₹44.25 Cr |
+| 🎁 Total Cashback (INR) | ₹34.63 L |
+| ✅ Success Rate | 91.00% |
+| ⚠️ Suspected Fraud | 17,089 |
+
+---
+
 ## 🔍 Key Insights
 
 **Overall**
@@ -86,19 +98,9 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| Microsoft Excel | Data cleaning and dashboard building |
-| PivotTables & PivotCharts | Summarizing and visualizing data |
-| Slicers | Interactive filtering |
-
----
-
 ## 📂 Dataset
 
-[⬇️ View PhonePe Raw Data (Google Drive)](https://docs.google.com/spreadsheets/d/1XOq5mWzbqRNucxxwGuAjhUUpovwpIMzz/edit?usp=drive_link)
+[⬇️ View PhonePe Raw Data (Google Drive)](https://docs.google.com/spreadsheets/d/1XOq5mWzbqRNucxxwGuAjhUUpovwpIMzz/edit?usp=sharing&ouid=110234731011492092452&rtpof=true&sd=true)
 
 ---
 
