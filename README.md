@@ -45,7 +45,7 @@ This project analyzes PhonePe UPI transaction data in a single, filter-driven Ex
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel | Data cleaning and dashboard building |
-| PivotTables & PivotCharts | Summarizing and visualizing data |
+| Pivot Tables & Pivot Charts | Summarizing and visualizing data |
 | Slicers | Interactive filtering |
 
 ---
